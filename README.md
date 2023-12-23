@@ -13,8 +13,6 @@ https://dineshramgovindaraj.github.io/react-todo-list/
 - Delete tasks from the list.
 - Filter tasks based on their completion status.
 
-## Getting Started
-
 ### Prerequisites
 
 Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed on your machine.
