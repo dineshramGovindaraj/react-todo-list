@@ -4,7 +4,7 @@ A simple Todo List application built with React.js.
 
 ## Live Link
 
-    
+https://dineshramgovindaraj.github.io/react-todo-list/
 
 ## Features
 
@@ -24,16 +24,17 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/react-todo-list.git
-
-2. Navigate to the project directory:
-
-cd react-todo-list
+git clone https://github.com/dineshramGovindaraj/react-todo-list.git
 
 1. Navigate to the project directory:
 
 cd react-todo-list
 
-2.Install dependencies:
+2. Navigate to the project directory:
+
+cd react-todo-list
+
+3.Install dependencies:
 
 npm install
+```
